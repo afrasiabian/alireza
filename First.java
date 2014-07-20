@@ -4,6 +4,7 @@ Lat Edit.
 	
 a new change.
 	
+Fix second bug.
 	
 Feature 1 change.
 	
